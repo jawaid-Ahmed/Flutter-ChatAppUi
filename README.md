@@ -1,4 +1,10 @@
-# chatapp
+# chatapp Ui using flutter
+
+![chatappmobile](https://user-images.githubusercontent.com/36307747/131043138-268c16bd-fb17-48e6-bf3c-e93f5a64a44e.PNG)
+![chatappmobile2](https://user-images.githubusercontent.com/36307747/131043172-dacf51cd-d008-4a02-8d7b-42169c7b2449.PNG)
+ 
+
+
 
 A new Flutter project.
 
